@@ -162,4 +162,4 @@ cython_debug/
 
 artifacts/*
 
-rough.py/
+.rough.py
