@@ -17,4 +17,4 @@ MLFLOW_TRACKING_USERNAME=mihir21bisht \
 MLFLOW_TRACKING_PASSWORD=1deb98c8a8fb51c226a6e7fde6a66295626f5525 \
 python script.py
 
-354228497987.dkr.ecr.ap-south-1.amazonaws.com/stone
+AWS_ECR_LOGIN_URI: 354228497987.dkr.ecr.ap-south-1.amazonaws.com/stone
