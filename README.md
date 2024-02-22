@@ -6,3 +6,4 @@ The project leverages MLflow for experiment tracking and management and DVC for 
 
 
 ![alt text](image.png)
+![alt text](img2.png)
